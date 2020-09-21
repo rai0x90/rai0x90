@@ -7,7 +7,9 @@
 - Reverse Engineering 🛠️
 - Cracking 🔓
 
-- Astrophysics (gravitational waves, dark matter/energy, pre-big bang cosmology) 🔭
+
+
+- Astrophysics 🔭
   - gravitational waves
   - dark matter/energy
   - pre-big bang cosmology
