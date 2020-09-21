@@ -1,13 +1,10 @@
 # rai 👽
 **[!]** I do not hold any responsibility for misuse of my programs as they are for **educational purposes** only.
 - Deep Learning/Computer Vision 🤖
-- Quantum Computing ⚛️
-- Neuromorphic Computing 🧠 
 - Malware/Exploit Dev 😈
 - Reverse Engineering 🛠️
-- Cracking 🔓
 
-
+--- 
 
 - Astrophysics 🔭
   - gravitational waves
