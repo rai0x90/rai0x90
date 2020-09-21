@@ -4,12 +4,12 @@
 - Malware/Exploit Dev 😈
 - Reverse Engineering 🛠️
 
---- 
-
 - Astrophysics 🔭
   - gravitational waves
   - dark matter/energy
   - pre-big bang cosmology
+  
+---
 
 ### Languages:
 
