@@ -1,7 +1,7 @@
 # rai 👽
-**[!]** I do not hold any responsibility for misuse of my programs as they are for **educational purposes** only.
 
-**Hobbies:***
+
+**Hobbies:**
 - deep learning 🤖
 - malware, RE, and infosec 😈
 - astrophysics 🔭
