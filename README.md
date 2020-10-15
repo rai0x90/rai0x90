@@ -1,13 +1,11 @@
 # rai 👽
 **[!]** I do not hold any responsibility for misuse of my programs as they are for **educational purposes** only.
-- Deep Learning/Computer Vision 🤖
-- Malware/Exploit Dev 😈
-- Reverse Engineering 🛠️
 
-- Astrophysics 🔭
-  - gravitational waves
-  - dark matter/energy
-  - pre-big bang cosmology
+**Hobbies:***
+- deep learning 🤖
+- malware, RE, and infosec 😈
+- astrophysics 🔭
+ 
   
   
 <br>
