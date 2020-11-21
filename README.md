@@ -29,7 +29,6 @@
 ![rai0x90's github stats](https://github-readme-stats-6a7aak3k7.vercel.app/api?username=rai0x90&show_icons=true&include_all_commits=true&theme=synthwave&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats-6a7aak3k7.vercel.app/api/top-langs/?username=rai0x90&theme=synthwave&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
