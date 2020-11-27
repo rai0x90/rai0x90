@@ -1,15 +1,9 @@
 # rai 👽
 
-<html>
- <body>
-  <script src="https://www.hackthebox.eu/badge/380461"></script>
- </body>
-</html>
-
 
 **Hobbies:**
 - deep learning 🤖
-- malware, RE, and infosec 😈
+- cybersec 😈
 - astrophysics 🔭
  
   
