@@ -8,7 +8,6 @@
  
   
   
-<br>
 **Current Projects:**
 - kitsune framework
 - BMEPED (Binary Merger Event Parameter Estimation and Detection)
