@@ -5,6 +5,9 @@
 - deep learning 🤖
 - cybersec 😈
 - astrophysics 🔭
+- music producing 🎶
+- onlyfans leaking 🔞
+- pwning skid sites 💀
  
 <br> 
   
