@@ -11,7 +11,7 @@
 **Current Projects:**
 - kitsune framework
 - FaceRecognitionCPU
-- BMEPED (Binary Merger Event Parameter Estimation and Detection)
+- multi-param estimation FCNN (Frequency Domain CNN) for gravitational waves
 
 <br>
 
