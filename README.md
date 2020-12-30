@@ -13,8 +13,9 @@
   
 **Current Projects:**
 - kitsune framework
-- FaceRecognitionCPU
-- multi-param estimation FCNN (Frequency Domain CNN) for gravitational waves
+- next level phishing (URI)
+- discord malware POCs
+
 
 <br>
 
