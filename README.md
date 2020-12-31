@@ -7,13 +7,13 @@
 - astrophysics 🔭
 - music producing 🎶
 - onlyfans leaking 🔞
-- pwning skid sites 💀
+- pwning 💀
  
 <br> 
   
 **Current Projects:**
 - kitsune framework
-- next level phishing (URI)
+- next level phishing (homoglyph unicode URL + URI shells)
 - discord malware POCs
 
 
