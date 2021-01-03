@@ -6,7 +6,6 @@
 - cybersec 😈
 - astrophysics 🔭
 - music producing 🎶
-- onlyfans leaking 🔞
 - pwning 💀
  
 <br> 
