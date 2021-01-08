@@ -3,9 +3,7 @@
 
 **Hobbies:**
 - deep learning 🤖
-- cybersec 😈
 - astrophysics 🔭
-- music producing 🎶
 - pwning 💀
  
 <br> 
@@ -14,6 +12,7 @@
 - kitsune framework
 - next level phishing (homoglyph unicode URL + URI shells)
 - discord malware POCs
+- raspi drop boxes
 
 
 <br>
