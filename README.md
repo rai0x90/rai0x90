@@ -1,18 +1,23 @@
 # rai 👽
 
+假爱
+<br>
+가짜 사랑
+<br>
 
-**Hobbies:**
+## Hobbies:
 - deep learning 🤖
 - astrophysics 🔭
 - pwning 💀
  
 <br> 
   
-**Current Projects:**
+## Current Projects:
 - kitsune framework
-- next level phishing (homoglyph unicode URL + URI shells)
-- discord malware POCs
+- next level phishing (homoglyph unicode URLs)
+- discord malware (popping shells w URIs)
 - raspi drop boxes
+- discord AI chatbot
 
 
 <br>
