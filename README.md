@@ -1,7 +1,5 @@
 # rai 👽
 
-![HTB_Profile](https://user-images.githubusercontent.com/71098497/102302725-a20d7f00-3f27-11eb-9148-8bdf59328efe.png)
-
 가짜 사랑
 <br>
 偽の愛
@@ -14,21 +12,13 @@
 ## Hobbies:
 - deep learning 🤖
 - astrophysics 🔭
-- pwning 💀
+- hackin (RE, SE, web hacking) 💀
  
 <br> 
-  
-## Current Projects:
-- kitsune framework
-- next level phishing (homoglyph unicode URLs)
-- discord malware (popping shells w URIs)
-- raspi drop boxes
-- discord AI chatbot
+ 
+ 
+![HTB_Profile](https://user-images.githubusercontent.com/71098497/102302725-a20d7f00-3f27-11eb-9148-8bdf59328efe.png)
 
-
-<br>
-
-<br>
 
 
 
