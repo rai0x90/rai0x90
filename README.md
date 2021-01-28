@@ -12,7 +12,7 @@
 ## Hobbies:
 - deep learning 🤖
 - astrophysics 🔭
-- hackin (RE, SE, web hacking) 💀
+- hacking (RE, exploits) 💀
  
 <br> 
  
