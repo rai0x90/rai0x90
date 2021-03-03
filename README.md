@@ -1,15 +1,5 @@
 # rai 👽
 
-가짜 사랑
-<br>
-偽の愛
-<br>
-假爱
-<br>
-<br>
-<br>
-
-## Hobbies:
 - deep learning 🤖
 - astrophysics 🔭
 - hacking (RE, exploits) 💀
