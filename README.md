@@ -1,9 +1,21 @@
 # rai 👽
 
-- deep learning 🤖
-- astrophysics 🔭
-- hacking (RE, exploits) 💀
-- private repos > public repos
+
+         ___---___                    
+      .--         --.      
+    ./   ()      .-. \.
+   /   o    .   (   )  \
+  / .            '-'    \         
+ | ()    .  O         .  |      
+|                         |      
+|    o           ()       |
+|       .--.          O   |            
+ | .   |    |            |
+  \    `.__.'    o   .  /    
+   \                   /                   
+    `\  o    ()      /'    
+      `--___   ___--'
+            ---
  
 <br> 
  
