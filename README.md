@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71098497/165671953-6bdbb2cb-41ac-4a33-8ccf-af54c281d657.jpg" alt="joker">
+  <img src="https://user-images.githubusercontent.com/99927879/224480092-5000daf3-b448-465b-8870-9d6a814d388f.jpg" alt="seven_greed">
   
   <br>
   
