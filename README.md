@@ -6,9 +6,10 @@
   
   <br>
   <br>
-  
-         i work on things in IoT security, iOS security, distributed systems, brain-based AI, and algorithmic trading.
-         i mainly write in python, c++, and rust
+ 
   
 </p>
 
+<b>IoT security, iOS security, distributed systems, brain-based AI, and algorithmic trading.</b> <br>
+
+<b>languages: python/c++ and am getting into ocaml/rust </b>
