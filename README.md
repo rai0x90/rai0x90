@@ -12,4 +12,4 @@
 
 <b>IoT security, iOS security, distributed systems, brain-based AI, and algorithmic trading.</b> <br>
 
-<b>languages: python/c++ and am getting into ocaml/rust </b>
+<b>languages: python/c++, getting into ocaml/rust </b>
