@@ -3,7 +3,7 @@
 - IoT security
 - iOS security
 - distributed systems
-- brain-based AI
+- brain-based AI / continual learning / neuromorphic computing
 - algorithmic trading
 
 ---
