@@ -7,7 +7,8 @@
   <br>
   <br>
   
-         i work on things in IoT security, iOS security, distributed systems, brain-based AI, and algorithmic trading
+         i work on things in IoT security, iOS security, distributed systems, brain-based AI, and algorithmic trading.
+         i mainly write in python, c++, and rust
   
 </p>
 
