@@ -1,3 +1,1 @@
-# rai
-
-radare2 enthusiast
+email: compiler@tuta.io
